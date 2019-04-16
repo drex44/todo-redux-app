@@ -1,5 +1,7 @@
 # todo-redux-app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/drex44/todo-redux-app.svg)](https://greenkeeper.io/)
+
 tutorial: How to use Redux in your react application?
 
 Code of a todo-redux-app 
