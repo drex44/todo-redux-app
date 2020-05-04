@@ -89,7 +89,7 @@ class ToDO extends Component {
               />
             </FormControl>
             <FormControl>
-              <Button>Add</Button>
+              <Button onClick={this.handleSubmit}>Add</Button>
             </FormControl>
           </form>
         </div>
